@@ -1,2 +1,2 @@
 # JavaScript-Fundamentals
-menganai dasar-dasar javascript
+about the basics of the javascript programming language
